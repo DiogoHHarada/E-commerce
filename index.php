@@ -70,8 +70,8 @@ echo "<!DOCTYPE html>
     }
     echo "<div id='grids'>
         <div class='cima'>
-            <div class='slides transicao'><img src='./imagens/img_grande1.png' height='300vh' width='800vw'></div>
-	    <div class='slides transicao'><img src='./imagens/img_grande2.png' height='300vh' width='800vw'></div>
+            <div class='slides transicao'><img src='./imagens/imagem1.jpeg' height='300vh' width='800vw'></div>
+	    <div class='slides transicao'><img src='./imagens/imagem2.jpeg' height='300vh' width='800vw'></div>
 	    <div class='slides transicao'><img src='./imagens/img_grande3.png' height='300vh' width='800vw'></div>
             <div id='Pontos'>
                 <span class='numeroImagem' onclick='mudar(0)'></span>
@@ -113,8 +113,8 @@ echo "<!DOCTYPE html>
             </script>
         </div>
         <div class='meio'>
-            <div id='imagem1'><img src='./imagens/img_media1.png' width='250px' height='250px'></div>
-            <div id='imagem2'><img src='./imagens/img_media2.png' width='250px' height='250px'></div>
+            <div id='imagem1'><img src='./imagens/imagem1.jpeg' width='250px' height='250px'></div>
+            <div id='imagem2'><img src='./imagens/imagem2.jpeg' width='250px' height='250px'></div>
             <div id='imagem3'><img src='./imagens/img_media3.png' width='250px' height='250px'></div>
         </div>
         <div class='baixo'>
@@ -127,7 +127,7 @@ echo "<!DOCTYPE html>
                 adquirir a seu modelo ideal !!!
                 </p>
             </div>
-            <div id='video'><iframe width='560' height='315' src='https://www.youtube.com/embed/UhYV8wOmIqU?si=J1z3F6AR8hqMn8pI' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>            </div>
+            <div id='video'><iframe width='560' height='354' src='https://www.youtube.com/embed/UhYV8wOmIqU?si=J1z3F6AR8hqMn8pI' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>            </div>
         </div>
         <div class='maisBaixo'>
             <div id='descGeral'>

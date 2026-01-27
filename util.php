@@ -6,8 +6,8 @@ ini_set("display_errors", 1);
   function conecta ($params = "")  // igual a nada pra indicar q aceita vazio !! 
   {
     if ($params == "") {
-        $params="pgsql:host=pgsql.projetoscti.com.br; dbname=projetoscti23; user=projetoscti23; 
-                 password=721228";
+        $params="pgsql:host=localhost; dbname=postgres; user=postgres; 
+                 password=postgres";
     }
 
     $varConn = new PDO($params);
